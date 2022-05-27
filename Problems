@@ -1,0 +1,12 @@
+Problems
+Q1. WAP to print all the natural numbers from 1 to 20.
+Q2. WAP to print all the natural numbers from 50 to 20.
+Q3. WAP to print all numbers within a given range. The range is given by user.
+Q4. WAP to print all the natural numbers from 1 to 200 in different lines. User should decide how 
+many numbers print in a line.
+Q5. WAP to input n numbers and find the average of odd and even numbers, then display the result.
+Q6. WAP to calculate the factorial of a given number.
+Q7. WAP to calculate the sum of digits of a given number and find the average of it.
+Q8. WAP to check the inputted number is prime number or not.
+Q9. WAP to find out the middle digit of a number.
+Q10. WAP to input numbers till the user inputted 0, and count how many numbers entered by
